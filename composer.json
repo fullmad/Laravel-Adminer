@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "^7.*",
-         "haren/adminer": "dev-bugfix"
+         "miroc/laravel-adminer": "dev-bugfix"
     },
     "autoload": {
         "psr-4": {
